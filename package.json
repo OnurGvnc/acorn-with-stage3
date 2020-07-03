@@ -8,6 +8,10 @@
     "type": "git",
     "url": "https://github.com/onurgvnc/acorn-with-stage3.git"
   },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "homepage": "https://github.com/onurgvnc/acorn-with-stage3.git",
   "bugs": "https://github.com/onurgvnc/acorn-with-stage3/issues",
   "dependencies": {
