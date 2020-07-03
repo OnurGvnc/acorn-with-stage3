@@ -26,6 +26,9 @@ In the package.json file resolutions section, declare that the `acorn-with-stage
 
 ```
 
+**important note:** "resolutions" works with `yarn` (_[selective dependency resolutions](https://classic.yarnpkg.com/en/docs/selective-version-resolutions/)_).
+To use with `npm`: https://github.com/rogeriochaves/npm-force-resolutions
+
 [`./example`](./example)
 
 - https://github.com/acornjs/acorn
