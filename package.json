@@ -4,10 +4,14 @@
   "main": "index.js",
   "author": "OnurGvnc",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onurgvnc/acorn-with-stage3.git"
+  },
+  "homepage": "https://github.com/onurgvnc/acorn-with-stage3.git",
+  "bugs": "https://github.com/onurgvnc/acorn-with-stage3/issues",
   "dependencies": {
     "acorn": "^7.3.1",
-    "acorn-dynamic-import": "^4.0.0",
-    "acorn-import-meta": "^1.1.0",
     "acorn-stage3": "^3.0.0"
   }
 }
