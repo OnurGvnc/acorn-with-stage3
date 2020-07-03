@@ -1,4 +1,4 @@
-const acorn = require('acorn');
+const acorn = require('acorn-base'); // npm:acorn
 /*
  * acorn-class-fields
  * acorn-numeric-separator

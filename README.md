@@ -1,6 +1,6 @@
 # acorn-with-stage3
 
-`package.json`
+`package.json`:
 
 ```json
 {

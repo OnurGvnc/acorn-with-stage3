@@ -1,6 +1,6 @@
 {
   "name": "acorn-with-stage3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "OnurGvnc",
   "license": "MIT",
@@ -11,7 +11,7 @@
   "homepage": "https://github.com/onurgvnc/acorn-with-stage3.git",
   "bugs": "https://github.com/onurgvnc/acorn-with-stage3/issues",
   "dependencies": {
-    "acorn": "^7.3.1",
+    "acorn-base": "npm:acorn@^7.3.1",
     "acorn-stage3": "^3.0.0"
   }
 }
