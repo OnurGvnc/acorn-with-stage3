@@ -1,5 +1,7 @@
 # acorn-with-stage3
 
+![](https://img.shields.io/npm/v/acorn-with-stage3?label=npm%3A%20acorn-with-stage3)
+
 When we use the features in stage3 without babel plugins, the webpack will give an error similar to the following
 
 ```
